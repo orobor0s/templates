@@ -28,7 +28,7 @@ Note: When adding new categories / templates, please place them alphabetically w
 
 ### Project Documentation
 ---
-#### Agile Project
+#### [Agile Project](https://github.com/orobor0s/templates/blob/main/project-documentation/agile-project.md)
 ##### Purpose
 This template is used for documenting a project that is centered around an ongoing process that consists of frequent, smaller scale projects, rather than a specific end goal.
 ##### Dependencies
@@ -37,7 +37,7 @@ This template is used for documenting a project that is centered around an ongoi
 - Remove any unneeded sections
 - Replace everything in [brackets]
 ---
-#### Project Proposal
+#### [Project Proposal](https://github.com/orobor0s/templates/blob/main/project-documentation/project-proposal.md)
 ##### Purpose
 This template is used for documenting a project in its initial planning phase.
 ##### Dependencies
@@ -46,7 +46,7 @@ This template is used for documenting a project in its initial planning phase.
 - Remove any unneeded sections
 - Replace everything in [brackets]
 ---
-#### Project Retrospective
+#### [Project Retrospective](https://github.com/orobor0s/templates/blob/main/project-documentation/project-retrospective.md)
 ##### Purpose
 This template is used for documenting a project after its completion.
 ##### Dependencies
