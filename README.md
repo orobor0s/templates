@@ -59,10 +59,10 @@ This template is used for documenting a project after its completion.
 <!--
 Mini template for adding new categories / templates and related info
 
-### Category
+### [Category](https://github.com/orobor0s/templates/tree/main/ <-- your-folder-here)
 
 ---
-#### Template
+#### [Template](https://github.com/orobor0s/templates/blob/main/ <-- your-folder/your-file-here)
 ##### Purpose
 
 ##### Dependencies
