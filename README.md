@@ -1,7 +1,7 @@
 # Template Repository
 Welcome to my template repository! This repository stores templates that can be used for a variety of purposes, currently divided into the following categories:
 
-- Project Documentation
+- [Project Documentation](https://github.com/orobor0s/templates/tree/main/project-documentation)
 
 ## Getting Started
 To get started, simply clone or download this repository to your local machine. From there, you can browse the available templates and choose the one that best suits your needs.
@@ -27,7 +27,7 @@ If you have any questions or concerns about this repository, please feel free to
 Note: When adding new categories / templates, please place them alphabetically with categories sorted and placed relative to other categories, and templates sorted and placed relative to other templates within the same category.
 
 ### Project Documentation
-
+---
 #### Agile Project
 ##### Purpose
 This template is used for documenting a project that is centered around an ongoing process that consists of frequent, smaller scale projects, rather than a specific end goal.
@@ -36,7 +36,7 @@ This template is used for documenting a project that is centered around an ongoi
 ##### Usage Instructions
 - Remove any unneeded sections
 - Replace everything in [brackets]
-
+---
 #### Project Proposal
 ##### Purpose
 This template is used for documenting a project in its initial planning phase.
@@ -45,7 +45,7 @@ This template is used for documenting a project in its initial planning phase.
 ##### Usage Instructions
 - Remove any unneeded sections
 - Replace everything in [brackets]
-
+---
 #### Project Retrospective
 ##### Purpose
 This template is used for documenting a project after its completion.
@@ -54,13 +54,14 @@ This template is used for documenting a project after its completion.
 ##### Usage Instructions
 - Remove any unneeded sections
 - Replace everything in [brackets]
-
+---
 
 <!--
 Mini template for adding new categories / templates and related info
 
 ### Category
 
+---
 #### Template
 ##### Purpose
 
@@ -68,4 +69,5 @@ Mini template for adding new categories / templates and related info
 - 
 ##### Usage Instructions
 - 
+---
 -->
